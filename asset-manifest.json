@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/uet_handbook/static/css/main.c129d1a3.chunk.css",
-    "main.js": "/uet_handbook/static/js/main.6d0083a9.chunk.js",
-    "main.js.map": "/uet_handbook/static/js/main.6d0083a9.chunk.js.map",
-    "runtime-main.js": "/uet_handbook/static/js/runtime-main.a6f0c7a2.js",
-    "runtime-main.js.map": "/uet_handbook/static/js/runtime-main.a6f0c7a2.js.map",
-    "static/js/2.15ca7159.chunk.js": "/uet_handbook/static/js/2.15ca7159.chunk.js",
-    "static/js/2.15ca7159.chunk.js.map": "/uet_handbook/static/js/2.15ca7159.chunk.js.map",
-    "static/js/3.966eaeb9.chunk.js": "/uet_handbook/static/js/3.966eaeb9.chunk.js",
-    "static/js/3.966eaeb9.chunk.js.map": "/uet_handbook/static/js/3.966eaeb9.chunk.js.map",
+    "main.css": "/uet_handbook/static/css/main.c9099758.chunk.css",
+    "main.js": "/uet_handbook/static/js/main.1f29638d.chunk.js",
+    "main.js.map": "/uet_handbook/static/js/main.1f29638d.chunk.js.map",
+    "runtime-main.js": "/uet_handbook/static/js/runtime-main.2a903741.js",
+    "runtime-main.js.map": "/uet_handbook/static/js/runtime-main.2a903741.js.map",
+    "static/css/2.c09b5ca6.chunk.css": "/uet_handbook/static/css/2.c09b5ca6.chunk.css",
+    "static/js/2.eda82ba9.chunk.js": "/uet_handbook/static/js/2.eda82ba9.chunk.js",
+    "static/js/2.eda82ba9.chunk.js.map": "/uet_handbook/static/js/2.eda82ba9.chunk.js.map",
+    "static/js/3.f06402a1.chunk.js": "/uet_handbook/static/js/3.f06402a1.chunk.js",
+    "static/js/3.f06402a1.chunk.js.map": "/uet_handbook/static/js/3.f06402a1.chunk.js.map",
     "index.html": "/uet_handbook/index.html",
-    "static/css/main.c129d1a3.chunk.css.map": "/uet_handbook/static/css/main.c129d1a3.chunk.css.map",
-    "static/js/2.15ca7159.chunk.js.LICENSE.txt": "/uet_handbook/static/js/2.15ca7159.chunk.js.LICENSE.txt"
+    "static/css/2.c09b5ca6.chunk.css.map": "/uet_handbook/static/css/2.c09b5ca6.chunk.css.map",
+    "static/css/main.c9099758.chunk.css.map": "/uet_handbook/static/css/main.c9099758.chunk.css.map",
+    "static/js/2.eda82ba9.chunk.js.LICENSE.txt": "/uet_handbook/static/js/2.eda82ba9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6f0c7a2.js",
-    "static/js/2.15ca7159.chunk.js",
-    "static/css/main.c129d1a3.chunk.css",
-    "static/js/main.6d0083a9.chunk.js"
+    "static/js/runtime-main.2a903741.js",
+    "static/css/2.c09b5ca6.chunk.css",
+    "static/js/2.eda82ba9.chunk.js",
+    "static/css/main.c9099758.chunk.css",
+    "static/js/main.1f29638d.chunk.js"
   ]
 }
