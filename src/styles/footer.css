@@ -1,0 +1,13 @@
+.handbook-footer {
+  background-color: #17376e;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+.handbook-footer-left {
+  width: 80%;
+}
+.handbook-footer-right {
+  width: 20%;
+}
